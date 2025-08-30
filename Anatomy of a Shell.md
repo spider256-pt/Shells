@@ -21,4 +21,5 @@
 	- It can also be found out by the environmental variable using the `env` command.
 	
 		- `shell-session:$ env`
-![image alt](https://github.com/spider256-pt/Shells/blob/dc5426d764f63932f3da7e853e0c07309ab03be8/images/Screenshot%202025-08-31%20013623.png)
+    
+			- ![image alt](https://github.com/spider256-pt/Shells/blob/dc5426d764f63932f3da7e853e0c07309ab03be8/images/Screenshot%202025-08-31%20013623.png)
