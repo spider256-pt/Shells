@@ -35,5 +35,5 @@ A **payload** can be defined in different contexts:
 
 ---
 
-## 📂 Repo Structure (Example)
+
 
