@@ -33,6 +33,9 @@
 		
 		- ### Server:
 			- `nc -lvnp <port>`
+    		  `Listening on 0.0.0.0 <port>`
+			- `Connection received on <host_add> <port>`
+			- `PS <Directory_path> > <command>`
 
 
 
